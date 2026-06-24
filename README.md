@@ -1,11 +1,11 @@
 # ScaffoldBench
-> **We don't test models. We test the scaffold.**
->
-> 如果有人给模型打分，为什么不也给手脚架打分呢？
+ **We don't test models. We test the scaffold.**
+
+ 如果有人给模型打分，为什么不也给手脚架打分呢？
 
 市面上所有的 AI Agent 跑分都在耍流氓。智能体在 SWE-bench 上跑出了惊人的高分，我们如何衡量到底是模型的能力变强了还是手脚架给了强大的助力。
 
-**ScaffoldBench 想要建立一套评价，就是脱离模型，手脚架的水平如何，给工程策略跑分。**
+ScaffoldBench 想要建立一套评价，就是脱离模型，手脚架的水平如何，给工程策略跑分。
 
 ## 怎么测
 
